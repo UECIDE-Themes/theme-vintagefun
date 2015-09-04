@@ -1,0 +1,15 @@
+Source: theme
+Section: libraries
+Priority: extra
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: theme-vintagefun
+Section: plugins
+Architecture: all
+XBSC-Group: Artistic
+Description: VintageFun Theme
+ A fun theme that turns UECIDE into a real blast from the past. Greenscreen terminal, dot matrix printer ...  
+
+
+
