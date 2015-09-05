@@ -60,7 +60,7 @@ editor.line.fade=true
 editor.compile.error.bgcolor=#880000
 editor.compile.warning.bgcolor=#888800
 editor.searchall.bgcolor=#008800
-editor.font = res://org/uecide/fonts/DS-TERM.TTF,plain,24
+editor.font = res://org/uecide/fonts/VT323-Regular.ttf,plain,20
 editor.font.force = true
 
 laf.jtattoo.controlColorLight=#44ff44
