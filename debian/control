@@ -1,11 +1,12 @@
-Source: theme
-Section: libraries
+Source: theme-vintagefun
+Section: themes
 Priority: extra
 Build-Depends: debhelper (>= 8.0.0)
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Standards-Version: 3.9.4
 
 Package: theme-vintagefun
-Section: plugins
+Section: themes
 Architecture: all
 XBSC-Group: Artistic
 Description: VintageFun Theme
