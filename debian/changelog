@@ -1,3 +1,9 @@
+theme-vintagefun (1.0.3) uecide; urgency=low
+
+  * Changed terminal font to VT323
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 5 Sep 2015 20:58:25 +0100
+
 theme-vintagefun (1.0.2) uecide; urgency=low
 
   * Removed debugging spam

@@ -1,7 +1,7 @@
 name=VintageFun
 #laf=org.uecide.JTattooHiFiLAF
-laf=org.uecide.JTattooAeroLAF
-icon=Monochrome
+laf=org.uecide.TinyUnicodeLAF
+icon=Winston
 editor.fgcolor = #00cc00
 editor.bgcolor = #000000
 editor.font = SansSerif,plain,24
@@ -42,7 +42,7 @@ console.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,14
 console.font.force = true
 console.color = #FFEFD5
 console.command.color = #000000
-console.cmmand.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,14
+console.command.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,16
 console.output.color = #000000
 console.output.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,16
 console.error.color = #000000
@@ -54,7 +54,7 @@ console.bullet.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,16
 console.bullet2.color=#000000
 console.bullet2.font = res://org/uecide/fonts/DOTMATRI.TTF,plain,16
 console.heading.color=#000000
-console.heading.font = res://org/uecide/fonts/DOTMBold.TTF,bold,30
+console.heading.font = res://org/uecide/fonts/DOTMBold.TTF,bold,16
 editor.line.enabled=true
 editor.line.fade=true
 editor.compile.error.bgcolor=#880000
@@ -62,6 +62,10 @@ editor.compile.warning.bgcolor=#888800
 editor.searchall.bgcolor=#008800
 editor.font = res://org/uecide/fonts/VT323-Regular.ttf,plain,20
 editor.font.force = true
+
+console.background.image.left=res://org/uecide/images/LinedPaperHolesLeft.png
+console.background.image.right=res://org/uecide/images/LinedPaperHolesRight.png
+console.background.image.middle=res://org/uecide/images/LinedPaperLines.png
 
 laf.jtattoo.controlColorLight=#44ff44
 laf.jtattoo.controlColorDark=#006600
@@ -72,3 +76,11 @@ laf.jtattoo.menuSelectionBackgroundColor=#004400
 
 laf.jtattoo.windowTitleColorLight=#008800
 laf.jtattoo.windowTitleColorDark=#004400
+
+console.indent = 40
+console.command.indent = 80
+console.bullet.indent = 60
+console.bullet2.indent = 80
+console.bullet.character = *
+console.bullet2.character = >
+
