@@ -92,3 +92,7 @@ console.bullet2.character = >
 
 console.shadow.top=4
 console.shadow.bottom=2
+
+pluginmanager.shade.top=#ffffff
+pluginmanager.shade.bottom=#aabbaa
+
