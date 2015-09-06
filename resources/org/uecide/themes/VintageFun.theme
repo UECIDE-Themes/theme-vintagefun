@@ -77,7 +77,7 @@ laf.jtattoo.controlColorDark=#aabbaa
 #
 #laf.jtattoo.windowBorderColor=#008800
 #laf.jtattoo.windowInactiveBorderColor=#004400
-#laf.jtattoo.menuSelectionBackgroundColor=#004400
+laf.jtattoo.menuSelectionBackgroundColor=#aabbaa
 #
 #laf.jtattoo.windowTitleColorLight=#008800
 #laf.jtattoo.windowTitleColorDark=#004400

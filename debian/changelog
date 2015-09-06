@@ -1,3 +1,9 @@
+theme-vintagefun (1.0.5) uecide; urgency=low
+
+  * Changed look and feel to JTattoo Acryl
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 6 Sep 2015 20:56:49 +0100
+
 theme-vintagefun (1.0.4) uecide; urgency=low
 
   * Added lined paper background to console
