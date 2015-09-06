@@ -1,6 +1,11 @@
 name=VintageFun
+laf=org.uecide.JTattooAcrylLAF
+#laf=org.uecide.JTattooLunaLAF
 #laf=org.uecide.JTattooHiFiLAF
-laf=org.uecide.TinyUnicodeLAF
+#laf=org.uecide.JTattooSmartLAF
+#laf=org.uecide.JTattooMintLAF
+#laf=org.uecide.JTattooFastLAF
+#laf=org.uecide.TinyUnicodeLAF
 icon=Winston
 editor.fgcolor = #00cc00
 editor.bgcolor = #000000
@@ -67,15 +72,15 @@ console.background.image.left=res://org/uecide/images/LinedPaperHolesLeft.png
 console.background.image.right=res://org/uecide/images/LinedPaperHolesRight.png
 console.background.image.middle=res://org/uecide/images/LinedPaperLines.png
 
-laf.jtattoo.controlColorLight=#44ff44
-laf.jtattoo.controlColorDark=#006600
-
-laf.jtattoo.windowBorderColor=#008800
-laf.jtattoo.windowInactiveBorderColor=#004400
-laf.jtattoo.menuSelectionBackgroundColor=#004400
-
-laf.jtattoo.windowTitleColorLight=#008800
-laf.jtattoo.windowTitleColorDark=#004400
+laf.jtattoo.controlColorLight=#ccddcc
+laf.jtattoo.controlColorDark=#aabbaa
+#
+#laf.jtattoo.windowBorderColor=#008800
+#laf.jtattoo.windowInactiveBorderColor=#004400
+#laf.jtattoo.menuSelectionBackgroundColor=#004400
+#
+#laf.jtattoo.windowTitleColorLight=#008800
+#laf.jtattoo.windowTitleColorDark=#004400
 
 console.indent = 40
 console.command.indent = 80
@@ -84,3 +89,6 @@ console.bullet2.indent = 80
 console.bullet.character = *
 console.bullet2.character = >
 
+
+console.shadow.top=4
+console.shadow.bottom=2
