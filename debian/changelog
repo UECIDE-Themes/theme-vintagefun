@@ -1,3 +1,9 @@
+theme-vintagefun (1.0.7) uecide; urgency=low
+
+  * Set plugin manager shade colour
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 6 Sep 2015 21:05:49 +0100
+
 theme-vintagefun (1.0.6) uecide; urgency=low
 
   * Fixed menu colours
