@@ -1,14 +1,15 @@
 Source: theme-vintagefun
-Section: themes
+Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
 Package: theme-vintagefun
-Section: themes
+Section: main
 Architecture: all
-XBSC-Group: Artistic
+XBSC-Group: Themes
+XBSC-SubGroup: Artistic
 Description: VintageFun theme
   A fun theme that turns UECIDE into a real blast from the past. Greenscreen terminal, dot matrix printer ...
 
